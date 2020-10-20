@@ -1,0 +1,1 @@
+source folder is used to storage the pre-trained image capture by screenshot.py
